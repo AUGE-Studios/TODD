@@ -1,9 +1,12 @@
 > *A sudden battle orchestra appears...* 
+
 > *Roll D20 against psychic attack.* 
+
 > *... U failed. Now you're dancing like banana tiger.*
 
 # T.O.D.D.
 **A Tabletop Orchestral Dynamics Dashboard**
+
 A simple dashboard/soundboard written in old dusty VB6 only cuz programmer is too lazy to learn something new
 
 **Upcoming releases:**
